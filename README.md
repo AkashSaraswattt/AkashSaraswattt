@@ -1,4 +1,4 @@
-# Hi, I’m Akash Saraswat 👋
+# Hi, I’m Akash Saraswat 
 
 I’m a software engineer focused on Go backend development and API design. I graduated from MITS in 2026 with a B.Tech in AI and Data Science.
 

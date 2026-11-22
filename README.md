@@ -2,7 +2,7 @@
   <img src="./crowned-pig.svg" width="48" height="40" alt="Crowned pig, a Technoblade tribute">&nbsp;<img src="./name-wordmark.svg" alt="Akash Saraswat" width="282" height="40">&nbsp;
   <a href="https://akashs-world.vercel.app/"><img src="./portfolio-button.svg" alt="Explore my portfolio"></a>
 </h1>
-<p align="center"><strong>Software Engineer · Go Backend Development · API Design</strong></p>
+<p align="center"><strong>Software Engineer · Go Backend Development · React frontend Design</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-saraswat-613982257/"><img src="./linkedin-button.svg" alt="Connect on LinkedIn"></a>&nbsp;
   <a href="mailto:akashsaraswat0005@gmail.com"><img src="./email-button.svg" alt="Send me an email"></a>

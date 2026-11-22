@@ -4,8 +4,8 @@
 </h1>
 <p align="center"><strong>Software Engineer · Go Backend Development · API Design</strong></p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/akash-saraswat-613982257/">LinkedIn</a> ·
-  <a href="mailto:akashsaraswat0005@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/akash-saraswat-613982257/"><img src="./linkedin-button.svg" alt="Connect on LinkedIn"></a>&nbsp;
+  <a href="mailto:akashsaraswat0005@gmail.com"><img src="./email-button.svg" alt="Send me an email"></a>
 </p>
 
 ## About me

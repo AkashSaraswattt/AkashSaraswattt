@@ -22,13 +22,21 @@ Built a learning platform with WebRTC video conferencing and AI tutoring. Design
 
 `Next.js` · `TypeScript` · `Supabase` · `GraphQL` · `WebRTC`
 
+<p>
+  <a href="https://www.bytemeet.in/"><img src="./project-demo.svg" alt="ByteMeet live demo"></a>&nbsp;
+  <a href="https://github.com/AkashSaraswattt/bytemeet"><img src="./project-source.svg" alt="ByteMeet source code"></a>
+</p>
+
 ### Sortify
 
 Built an interactive visualizer for **16 sorting algorithms** with real-time metrics, adjustable playback, and support for **200+ elements**.
 
 `React` · `Vite` · `Tailwind CSS`
 
-[Live demo](https://sortify-sorting-visualizer.vercel.app/) · [Source code](https://github.com/AkashSaraswattt/Sortify-sorting-visualizer)
+<p>
+  <a href="https://sortify-sorting-visualizer.vercel.app/"><img src="./project-demo.svg" alt="Sortify live demo"></a>&nbsp;
+  <a href="https://github.com/AkashSaraswattt/Sortify-sorting-visualizer"><img src="./project-source.svg" alt="Sortify source code"></a>
+</p>
 
 ## Tech stack
 

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./name-wordmark.svg" alt="Akash Saraswat" width="282" height="40">&nbsp;
+  <img src="./crowned-pig.svg" width="48" height="40" alt="Crowned pig, a Technoblade tribute">&nbsp;<img src="./name-wordmark.svg" alt="Akash Saraswat" width="282" height="40">&nbsp;
   <a href="https://akashs-world.vercel.app/"><img src="./portfolio-button.svg" alt="Explore my portfolio"></a>
 </h1>
 <p align="center"><strong>Software Engineer · Go Backend Development · API Design</strong></p>

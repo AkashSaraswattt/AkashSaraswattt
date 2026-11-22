@@ -8,13 +8,13 @@
   <a href="mailto:akashsaraswat0005@gmail.com"><img src="./email-button.svg" alt="Send me an email"></a>
 </p>
 
-## About me
+## <img src="./about-icon.svg" width="28" height="28" alt=""> &nbsp;About me
 
 I build backend services and APIs in Go. As an intern at **Tabby**, I developed Go services that supported Buy Now, Pay Later (BNPL) payment workflows. I’ve also built full-stack web applications and internal tools that automate document generation.
 
 I graduated from MITS in 2026 with a B.Tech in AI and Data Science. I’m open to backend and software engineering roles.
 
-## Selected projects
+## <img src="./projects-icon.svg" width="28" height="28" alt=""> &nbsp;Selected projects
 
 ### ByteMeet
 

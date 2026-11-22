@@ -1,5 +1,5 @@
 <h1 align="center">
-  Akash Saraswat&nbsp;
+  <img src="./name-wordmark.svg" alt="Akash Saraswat" width="282" height="40">&nbsp;
   <a href="https://akashs-world.vercel.app/"><img src="./portfolio-button.svg" alt="Explore my portfolio"></a>
 </h1>
 <p align="center"><strong>Software Engineer · Go Backend Development · API Design</strong></p>

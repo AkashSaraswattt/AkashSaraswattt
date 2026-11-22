@@ -1,4 +1,7 @@
-<h1 align="center">Akash Saraswat</h1>
+<h1 align="center">
+  Akash Saraswat&nbsp;
+  <a href="https://akashs-world-beacon.skillfulridge32.chatgpt.site"><img src="https://img.shields.io/badge/Explore%20Portfolio-0F766E?style=flat&logo=compass&logoColor=white" alt="Explore my portfolio"></a>
+</h1>
 <p align="center"><strong>Software Engineer · Go Backend Development · API Design</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-saraswat-613982257/">LinkedIn</a> ·
